@@ -116,3 +116,8 @@ IoS Config
 <key>NSCameraUsageDescription</key>
 <string>Camera Library Access Warning</string>
  */
+/*
+Android Config
+
+requestLegacyExternalStorage="true"
+ */
