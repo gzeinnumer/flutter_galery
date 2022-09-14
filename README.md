@@ -1,6 +1,7 @@
 # flutter_galery
 
 [Source](https://pub.dev/packages/image_picker)
+ [Tutorial](https://www.youtube.com/watch?v=3xlREA-SL_k&ab_channel=CodewithKavit)
 
 ```
 dependencies:
