@@ -119,5 +119,11 @@ IoS Config
 /*
 Android Config
 
-requestLegacyExternalStorage="true"
+<manifest>
+   <application
+        android:requestLegacyExternalStorage="true"
+        ..>
+    </application>
+</manifest>
+
  */
